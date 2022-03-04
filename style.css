@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    border: 2px blue solid;
+    align-items: center;
+}
+
+#checkboxes {
+    display: flex;
+    flex-direction: column;
+}
